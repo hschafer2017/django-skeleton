@@ -25,7 +25,7 @@ SECRET_KEY = 'fu289l%1(%9ut&le2nm_7=l@m2hfr)a(b#mf^o@8rq9)z(seo2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['localhost', 'django-skeleton-test.herokuapp.com']
 
 
 # Application definition
